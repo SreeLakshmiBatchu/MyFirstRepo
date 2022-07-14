@@ -6,6 +6,7 @@ public class Main {
     System.out.println(myObj.x);
     System.out.println("Welcome");
         System.out.println("Welcome Git");
+        System.out.println("Hi Git");
 
   }
 }
